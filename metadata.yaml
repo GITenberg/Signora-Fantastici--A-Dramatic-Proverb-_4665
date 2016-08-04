@@ -1,0 +1,34 @@
+_repo: Signora-Fantastici--A-Dramatic-Proverb-_4665
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Staël, Madame de (Anne-Louise-Germaine)
+    aliases:
+    - Stael, Madame de (Anne-Louise-Germaine)
+    - De Staël, Madame (Anne-Louise-Germaine)
+    - Staël-Holstein, Anne Louise Germaine Necker Baronne de
+    birthdate: 1766
+    deathdate: 1817
+    gutenberg_agent_id: '1535'
+    url: http://www.gutenberg.org/2009/agents/1535
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4665'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- 19th century -- Translations into English'
+- GITenberg
+title: Signora Fantastici (A Dramatic Proverb)
+url: http://www.gutenberg.org/ebooks/4665
