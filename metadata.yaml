@@ -1,10 +1,13 @@
 _repo: Signora-Fantastici--A-Dramatic-Proverb-_4665
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Morlock, Frank J.
     gutenberg_agent_id: '1532'
     url: http://www.gutenberg.org/2009/agents/1532
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Staël, Madame de (Anne-Louise-Germaine)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1535
     wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4665#Signora-Fantastici--A-Dramatic-Proverb-
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
